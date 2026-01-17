@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a software engineer passionate about creatin
 ---
 
 ## 🚀 About Me
-- 💻 **Current Role**: Software Developer I at GA-I3 (General Atomics)
+- 💻 **Current Role**: Software Engineer I at GA-I3 (General Atomics)
 - 🎓 **Education**:
   - B.A. in Computer Science with a Minor in Religious Studies – *University of Virginia*, 2025
   - M.S. in Computer Science (HCI Concentration) – *Georgia Institute of Technology*, Expected Dec 2028
