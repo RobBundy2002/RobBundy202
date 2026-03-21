@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a software engineer passionate about creatin
 ---
 
 ## 🚀 About Me
-- 💻 **Current Role**: Software Engineer I at GA-I3 (General Atomics)
+- 💻 **Current Role**: Software Engineer II at GA-Intelligence (General Atomics)
 - 🎓 **Education**:
   - B.A. in Computer Science with a Minor in Religious Studies – *University of Virginia*, 2025
   - M.S. in Computer Science (HCI Concentration) – *Georgia Institute of Technology*, Expected Dec 2028
@@ -30,10 +30,6 @@ Welcome to my GitHub profile! I’m a software engineer passionate about creatin
 
 - [**Celestial Arcade**](https://robbundy2002.github.io/Gaming-Website-Project/)  
   React landing page with browser-friendly games like Rock, Paper, Scissors and Connect 4.
-
-- [**Stock Prediction AI**]() *(coming soon)*  
-  In-progress stock price predictor using real-time API data and machine learning techniques.
-
 ---
 
 ## 🛠️ Technical Skills
