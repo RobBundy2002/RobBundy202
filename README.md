@@ -1,72 +1,68 @@
-# Hi there, I'm Rob! 👋  
+# Robert Bundy
 
-Welcome to my GitHub profile! I’m a software engineer passionate about creating innovative tools, solving real-world problems, and continuously learning. Here's a bit about me:
+Software engineer focused on backend systems, platform engineering, infrastructure, and full-stack product development. I build practical systems with attention to reliability, clear workflows, and maintainable delivery paths.
 
----
+## Featured Projects
 
-## 🚀 About Me
-- 💻 **Current Role**: Software Engineer II at GA-Intelligence (General Atomics)
-- 🎓 **Education**:
-  - B.A. in Computer Science with a Minor in Religious Studies – *University of Virginia*, 2025
-  - M.S. in Computer Science (HCI Concentration) – *Georgia Institute of Technology*, Expected May 2028
-- 🌍 **Location**: Charlottesville, Virginia
-- 🌱 **Learning**: Human-centered design, scalable systems, and advanced ML techniques
+### [Northstar](https://github.com/RobBundy2002/northstar)
 
----
+A Kubernetes operations cockpit for multi-cluster observability, debugging, and guarded cluster operations.
 
-## 📚 Featured Projects
+It brings workload inspection, logs, metrics, RBAC-aware controls, and production safeguards into a focused platform engineering interface.
 
-- [**ResumeGPT**](https://robbundy2002.github.io/ResumeGPT/)  
-  AI-powered resume optimization tool using GPT API for personalized job-seeking advice.
+**Technology:** Kubernetes, Docker, Helm, Prometheus, RBAC, Node.js, GitHub Actions
 
-- [**Proverbial Plates**](https://github.com/RobBundy2002/AppIdea)  
-  React Native mobile app with SQLite/Node.js backend. Secure user auth and over 500+ searchable recipes.
+### [CareerBoard](https://github.com/RobBundy2002/CareerBoard)
 
-- [**College Hoops Matrix Madness**](https://matrix-madness-frontend.onrender.com/)  
-  A React-based college basketball take on the Immaculate Grid.  
-  *(Note: Grids are inactive, but demos available upon request.)*
+A collaborative job-search workspace for tracking applications, interviews, referrals, and career progress.
 
-- [**Celestial Arcade**](https://robbundy2002.github.io/Gaming-Website-Project/)  
-  React landing page with browser-friendly games like Rock, Paper, Scissors and Connect 4.
----
+It combines full-stack product workflows, team collaboration, application history, analytics, containerized deployment, and CI/CD.
 
-## 🛠️ Technical Skills
+**Technology:** Node.js, SQLite, Docker, REST APIs, CI/CD, GitHub Actions
 
-**Languages**  
-Java • Python • C • C# • JavaScript • HTML • CSS • Bash • SQL • SQLite
+### [UJLP](https://github.com/RobBundy2002/UJLP)
 
-**Frameworks & Libraries**  
-React • Node.js • Tailwind CSS • React Native • Unity
+The production website and digital publication platform for UVA's Undergraduate Journal of Law & Politics.
 
-**Tools & Platforms**  
-Git • GitHub • GitLab • Docker • Kubernetes • Kafka • Helm • NiFi
+It supports real-world organizational use with structured content, automated validation, tests, production deployment, and GitHub Pages delivery.
 
-**Markup & Config**  
-XML • YAML • XSLT
+**Technology:** React, GitHub Actions, GitHub Pages, content validation, testing, CI/CD
 
----
+### [ResumeGPT](https://github.com/RobBundy2002/ResumeGPT)
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobBundy2002&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+A privacy-first resume and job-description analyzer that runs locally in the browser.
 
----
+It uses client-side PDF parsing, deterministic skill matching, explainable scoring, local processing, and optional AI-ready prompt generation without sending resume data to an application backend.
 
-## 📝 Blog & Highlights
+**Technology:** React, TypeScript, Vite, pdfjs-dist, GitHub Actions, GitHub Pages
 
-### 🔗 LinkedIn Posts  
-- [**Internship Announcement**](https://www.linkedin.com/posts/rob-bundy-192035223_i-am-thrilled-to-announce-that-i-will-be-activity-7189695070097285120-JGvI?utm_source=share&utm_medium=member_desktop)  
-- [**Internship Conclusion**](https://www.linkedin.com/posts/rob-bundy-192035223_as-my-summer-internship-came-to-an-end-last-activity-7228786819348246535-B4aM?utm_source=share&utm_medium=member_desktop)  
-- [**Job Announcement**](https://www.linkedin.com/posts/rob-bundy-192035223_hello-everyone-i-am-excited-to-announce-activity-7321589194319974405-95Cx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADgRRb4B2-wZYmDMoQz70Q3tSxOMFyCIZ_A)
-- [**Masters Announcement**](https://www.linkedin.com/posts/rob-bundy-192035223_another-exciting-update-this-week-im-activity-7323014256293994496-MnqG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADgRRb4B2-wZYmDMoQz70Q3tSxOMFyCIZ_A)
-  
----
+## Technical Focus
 
-## 📫 Get in Touch
+**Backend & Application Development**
 
-- 📧 **Email**: [robbielbundy@gmail.com](mailto:robbielbundy@gmail.com)  
-- 💼 **LinkedIn**: [Rob-Bundy](https://www.linkedin.com/in/rob-bundy-192035223/)  
-- 🌐 **Portfolio**: [Visit Website](https://robbundy2002.github.io/Website/#/Website/)
+Java, Spring Boot, Node.js, REST APIs, SQL
 
----
+**Platform & Infrastructure**
 
-Thanks for visiting my profile! Feel free to connect, explore my repos, or reach out for collaboration. 🚀
+Docker, Kubernetes, Helm, Kafka, GitLab CI/CD, GitHub Actions
+
+**Frontend**
+
+React, TypeScript, JavaScript, HTML, CSS
+
+**Data & Integration**
+
+XML, XSLT, JSON, YAML, SQLite
+
+## About
+
+- Software Engineer II at General Atomics
+- B.A. Computer Science, University of Virginia
+- M.S. Computer Science, Georgia Tech - HCI specialization
+- Charlottesville, Virginia
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/rob-bundy-192035223](https://www.linkedin.com/in/rob-bundy-192035223/)
+- **Portfolio:** [robbundy2002.github.io/Website](https://robbundy2002.github.io/Website/#/Website/)
+- **Email:** [robbielbundy@gmail.com](mailto:robbielbundy@gmail.com)
