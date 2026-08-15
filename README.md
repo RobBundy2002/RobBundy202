@@ -8,10 +8,8 @@ Welcome to my GitHub profile! I’m a software engineer passionate about creatin
 - 💻 **Current Role**: Software Engineer II at GA-Intelligence (General Atomics)
 - 🎓 **Education**:
   - B.A. in Computer Science with a Minor in Religious Studies – *University of Virginia*, 2025
-  - M.S. in Computer Science (HCI Concentration) – *Georgia Institute of Technology*, Expected Dec 2028
+  - M.S. in Computer Science (HCI Concentration) – *Georgia Institute of Technology*, Expected May 2028
 - 🌍 **Location**: Charlottesville, Virginia
-- 🔭 **Currently Working On**:
-  - ML-based stock price predictor side project with live API integration
 - 🌱 **Learning**: Human-centered design, scalable systems, and advanced ML techniques
 
 ---
